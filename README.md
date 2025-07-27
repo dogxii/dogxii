@@ -2,10 +2,6 @@
 
 I'm Dogxi, a rookie dog. Learning, building, and having fun.
 
-![views](https://komarev.com/ghpvc/?username=dogxii&color=orange)
-![wakatime](https://wakatime.com/badge/user/30dc98ea-85d0-4f98-a0e5-1c90d7d19a3c.svg)
-![follow](https://img.shields.io/github/followers/dogxii.svg?style=social&label=Follow&maxAge=2592000)
-
 ## About Me
 
 - 🐶 As my desc, a rookie dog.
@@ -30,6 +26,10 @@ const skills = {
 ## Projects & Contributions
 
 I mostly work on developer tooling and interesting projects. Check my [repositories](https://github.com/dogxii?tab=repositories&q=&type=&language=&sort=stargazers) for more details.
+
+![views](https://komarev.com/ghpvc/?username=dogxii&color=orange)
+![wakatime](https://wakatime.com/badge/user/30dc98ea-85d0-4f98-a0e5-1c90d7d19a3c.svg)
+![follow](https://img.shields.io/github/followers/dogxii.svg?style=social&label=Follow&maxAge=2592000)
 
 ## Github Stats
 
