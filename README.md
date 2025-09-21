@@ -29,7 +29,7 @@ I mostly work on developer tooling and interesting projects. Check my [repositor
 
 ![views](https://komarev.com/ghpvc/?username=dogxii&color=orange)
 ![wakatime](https://wakatime.com/badge/user/30dc98ea-85d0-4f98-a0e5-1c90d7d19a3c.svg)
-![follow](https://img.shields.io/github/followers/dogxii.svg?style=social&label=Follow&maxAge=2592000)
+![follow](https://img.shields.io/github/followers/dogxii.svg?style=social&label=Follow&maxAge=3600)
 
 ## Github Stats
 
