@@ -33,7 +33,7 @@ I mostly work on developer tooling and interesting projects. Check my [repositor
 
 ## Github Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=dogxii&show_icons=true&theme=default&hide_border=true&hide_title=true&count_private=true&bg_color=00000000" alt="GitHub Stats" width="58%" />
+<img src="https://stats.dogxi.me/api?username=dogxii&show_icons=true&theme=default&hide_border=true&hide_title=true&count_private=true&bg_color=00000000" alt="GitHub Stats" width="58%" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://proxy.dogxi.me/dogxii/dogxii/snake/snake-dark.svg?proxy-host=raw.githubusercontent.com">
