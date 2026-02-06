@@ -7,7 +7,7 @@ I'm Dogxi, a rookie dog. Learning, building, and having fun.
 - 🐶 As my desc, a rookie dog.
 - 🌱  I‘m working hard to learn new skills, stand on the shoulders of giants :))
 - ⚡️ Focused on: frontend and gameDev
-- 📝 Also check my [Notion](https://dogxi.notion.site/) and [Blog](https://blog.dogxi.me/).
+- 📝 Also check my [Blog](https://blog.dogxi.me/).
 
 ## Tech Stack
 ```typescript
