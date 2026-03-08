@@ -2,42 +2,15 @@
 
 I'm Dogxi, a rookie dog. Learning, building, and having fun.
 
-## About Me
+⚡️ Focused on: frontend and gameDev
 
-- 🐶 As my desc, a rookie dog.
-- 🌱  I‘m working hard to learn new skills, stand on the shoulders of giants :))
-- ⚡️ Focused on: frontend and gameDev
-- 📝 Also check my [Blog](https://blog.dogxi.me/).
+📝 Also check my [Blog](https://blog.dogxi.me/).
 
-## Tech Stack
-```typescript
-type SkillType = 'languages' | 'frontend' | 'backend' | 'tools' | 'gameDev' | 'learning' | (string & {});
+## Projects & Contribution
 
-const skills = {
-  languages: ['JavaScript', 'TypeScript', 'Golang'],
-  frontend: ['React', 'Vite', 'Webpack'],
-  backend: ['Node.js', 'Express'],
-  tools: ['Git', 'Bun', 'Deno', 'GitHub Actions'],
-  gameDev: ['Godot', 'Pixel Art'],
-  learning: ['Swift', 'CTF']
-} satisfies Record<SkillType, string[]>;
-```
-
-## Projects & Contributions
-
-I mostly work on developer tooling and interesting projects. Check my [repositories](https://github.com/dogxii?tab=repositories&q=&type=&language=&sort=stargazers) for more details.
+Check my [repositories](https://github.com/dogxii?tab=repositories&q=&type=&language=&sort=stargazers) for more details.
 
 ![views](https://komarev.com/ghpvc/?username=dogxii&color=orange)
 ![wakatime](https://wakatime.com/badge/user/30dc98ea-85d0-4f98-a0e5-1c90d7d19a3c.svg)
 ![reading](https://boox.dogxi.me/api/badge/reading-time)
 ![follow](https://img.shields.io/github/followers/dogxii.svg?style=social&label=Follow&maxAge=3600)
-
-## Github Stats
-
-<img src="https://stats.dogxi.me/api?username=dogxii&show_icons=true&theme=default&hide_border=true&hide_title=true&count_private=true&bg_color=00000000" alt="GitHub Stats" width="58%" />
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://proxy.dogxi.me/dogxii/dogxii/snake/snake-dark.svg?proxy-host=raw.githubusercontent.com">
-  <source media="(prefers-color-scheme: light)" srcset="https://proxy.dogxi.me/dogxii/dogxii/snake/snake.svg?proxy-host=raw.githubusercontent.com">
-  <img alt="github contribution grid" src="https://proxy.dogxi.me/dogxii/dogxii/snake/snake.svg?proxy-host=raw.githubusercontent.com" width="100%">
-</picture>
