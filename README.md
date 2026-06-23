@@ -9,6 +9,7 @@ I'm Dogxi, a rookie dog. Learning, building, and having fun.
 ## Projects & Contribution
 
 - [iFace](https://github.com/dogxii/iFace) — An AI‑powered frontend interview practice tool with a customizable question bank for efficient learning.
+- [Ami](https://github.com/dogxii/ami) — A lightweight terminal AI agent with tool calling, file operations, web search, and Git integration.
 - [60s-web](https://github.com/dogxii/60s-web) — A fast, all‑in‑one navigation site that integrates the 60s API for daily briefings, trending topics, weather, tools, and more.
 - [iResume](https://github.com/dogxii/iResume) - A minimal online resume generator with live preview, local storage, and one‑click PDF export.
 - [astro-doge](https://github.com/dogxii/astro-doge) — A clean, content‑first Astro blog theme with dark mode and responsive design, perfect for personal tech blogs.
