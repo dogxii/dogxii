@@ -14,7 +14,7 @@ I'm Dogxi, a rookie dog. Learning, building, and having fun.
 - [iResume](https://github.com/dogxii/iResume) - A minimal online resume generator with live preview, local storage, and one‑click PDF export.
 - [astro-doge](https://github.com/dogxii/astro-doge) — A clean, content‑first Astro blog theme with dark mode and responsive design, perfect for personal tech blogs.
 
-Check my [repositories](https://github.com/dogxii?tab=repositories&q=&type=&language=&sort=stargazers) for more details.
+Check my [repositories](https://github.com/stars/dogxii/lists/my-projects) for more details.
 
 <img src="https://stats.dogxi.me/api?username=dogxii&show_icons=true&theme=default&hide_border=true&hide_title=true&count_private=true&bg_color=00000000" alt="GitHub Stats" width="58%" />
 
