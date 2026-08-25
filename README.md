@@ -14,5 +14,4 @@ Check my [repositories](https://github.com/stars/dogxii/lists/my-projects) for m
 
 ![views](https://komarev.com/ghpvc/?username=dogxii&color=orange)
 ![wakatime](https://wakatime.com/badge/user/30dc98ea-85d0-4f98-a0e5-1c90d7d19a3c.svg)
-![reading](https://boox.dogxi.me/api/badge/reading-time)
 ![follow](https://img.shields.io/github/followers/dogxii.svg?style=social&label=Follow&maxAge=3600)
